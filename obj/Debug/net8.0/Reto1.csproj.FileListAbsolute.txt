@@ -1,0 +1,14 @@
+E:\Programacion Web\C#\C# Nivel 2 Reto Practico\Nivel2\jlsony\Reto1\bin\Debug\net8.0\Reto1.exe
+E:\Programacion Web\C#\C# Nivel 2 Reto Practico\Nivel2\jlsony\Reto1\bin\Debug\net8.0\Reto1.deps.json
+E:\Programacion Web\C#\C# Nivel 2 Reto Practico\Nivel2\jlsony\Reto1\bin\Debug\net8.0\Reto1.runtimeconfig.json
+E:\Programacion Web\C#\C# Nivel 2 Reto Practico\Nivel2\jlsony\Reto1\bin\Debug\net8.0\Reto1.dll
+E:\Programacion Web\C#\C# Nivel 2 Reto Practico\Nivel2\jlsony\Reto1\bin\Debug\net8.0\Reto1.pdb
+E:\Programacion Web\C#\C# Nivel 2 Reto Practico\Nivel2\jlsony\Reto1\obj\Debug\net8.0\Reto1.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programacion Web\C#\C# Nivel 2 Reto Practico\Nivel2\jlsony\Reto1\obj\Debug\net8.0\Reto1.AssemblyInfoInputs.cache
+E:\Programacion Web\C#\C# Nivel 2 Reto Practico\Nivel2\jlsony\Reto1\obj\Debug\net8.0\Reto1.AssemblyInfo.cs
+E:\Programacion Web\C#\C# Nivel 2 Reto Practico\Nivel2\jlsony\Reto1\obj\Debug\net8.0\Reto1.csproj.CoreCompileInputs.cache
+E:\Programacion Web\C#\C# Nivel 2 Reto Practico\Nivel2\jlsony\Reto1\obj\Debug\net8.0\Reto1.dll
+E:\Programacion Web\C#\C# Nivel 2 Reto Practico\Nivel2\jlsony\Reto1\obj\Debug\net8.0\refint\Reto1.dll
+E:\Programacion Web\C#\C# Nivel 2 Reto Practico\Nivel2\jlsony\Reto1\obj\Debug\net8.0\Reto1.pdb
+E:\Programacion Web\C#\C# Nivel 2 Reto Practico\Nivel2\jlsony\Reto1\obj\Debug\net8.0\Reto1.genruntimeconfig.cache
+E:\Programacion Web\C#\C# Nivel 2 Reto Practico\Nivel2\jlsony\Reto1\obj\Debug\net8.0\ref\Reto1.dll
